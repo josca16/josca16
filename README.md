@@ -37,4 +37,4 @@ Soy un apasionado del desarrollo de software y actualmente me especializo en el 
 
 ---
 
-¡Gracias por visitar mi perfil! No dudes en echar un vistazo a mis proyectos y contactarme si quieres colaborar o simplemente charlar sobre tecnología. 😄
+¡Gracias por visitar mi perfil! No dudes en echar un vistazo a mis proyectos y contactarme. 😄
