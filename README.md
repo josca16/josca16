@@ -64,7 +64,7 @@ Tres videojuegos 2D/3D en **Unity + C#** aplicando física, diseño, lógica y o
 
 ## 📢 Contacto
 
-* 🌍 [Web personal](https://jcmembrive.com)
+* 🌍 [Web personal](https://portfolio-josecarlos.vercel.app/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/jose-carlos-membrive)
 * 📧 [josecarlosmartinez98@outlook.com](mailto:josecarlosmartinez98@outlook.com)
 
