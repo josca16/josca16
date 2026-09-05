@@ -1,81 +1,67 @@
-<h1 align="center">💻 Jose Carlos Membrive Martínez</h1>
+<div align="center">
 
-<p align="center">
-Desarrollador Fullstack Junior · Java + Spring Boot · IA aplicada al desarrollo · Bases de datos · Diseño web
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=17202A&height=200&section=header&text=Jose%20Carlos%20Membrive&fontSize=42&fontColor=E8663D&fontAlignY=38&animation=fadeIn&desc=Backend%20Junior%20%C2%B7%20Java%20%2B%20Spring%20Boot%20%C2%B7%20IA%20aplicada&descAlignY=58&descSize=18&descColor=F5F2EB" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jose-carlos-membrive/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:josecarlosmartinez98@outlook.com"><img src="https://img.shields.io/badge/Email-outlook.com-red?style=for-the-badge&logo=microsoft-outlook" /></a>
-  <a href="https://portfolio-josecarlos.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-Web-lightgrey?style=for-the-badge&logo=vercel" /></a>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=E8663D&center=true&vCenter=true&width=560&lines=Backend+Junior+%C2%B7+Java+%2B+Spring+Boot;IA+aplicada+al+desarrollo;Bases+de+datos+%26+dise%C3%B1o+web" alt="typing"/>
 
-## 👨‍💻 Sobre mí
+<br/>
 
-🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (nota media 8.6/10), con una forma de trabajar clara: **entender primero, construir después**.
-Mi base está en **backend con Java y Spring Boot**, **bases de datos** y **diseño web** (React, Next.js, Tailwind CSS). Uso la IA generativa como herramienta habitual de trabajo — documentación, prototipado, refactorización — no como discurso de moda.
+<a href="https://www.linkedin.com/in/jose-carlos-membrive/"><img src="https://img.shields.io/badge/LinkedIn-17202A?style=for-the-badge&logo=linkedin&logoColor=E8663D" /></a>
+<a href="mailto:josecarlosmartinez98@outlook.com"><img src="https://img.shields.io/badge/Email-17202A?style=for-the-badge&logo=microsoftoutlook&logoColor=E8663D" /></a>
+<a href="https://portfolio-josecarlos.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-E8663D?style=for-the-badge&logo=vercel&logoColor=17202A" /></a>
 
----
+</div>
 
-## 🧠 IA aplicada al desarrollo
+<br/>
+
+### 👨‍💻 Sobre mí
+
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (nota media 8,6/10), con una forma de trabajar clara: **entender primero, construir después**. Mi base está en **backend con Java y Spring Boot**, **bases de datos** (SQL/MariaDB, MongoDB) y **diseño web** (React, Next.js, Tailwind CSS). Uso la IA generativa como herramienta habitual de trabajo — documentación, prototipado, refactorización — no como discurso de moda.
+
+### 🧠 IA aplicada al desarrollo
 
 Integro LLMs (Claude, ChatGPT) en el día a día: documentación técnica, prototipado rápido, refactorización asistida y automatización de tareas repetitivas. Formación en fundamentos de IA generativa (Microsoft & LinkedIn Learning).
 
----
+<br/>
 
-## 🛠️ Tecnologías
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23_/_.NET-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+### 🛠️ Tecnologías
 
-📃 Otras: HTML · CSS · XML/JSON · Unity (C#) · Odoo · DBeaver · Azure Data Studio
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,mongodb,react,nextjs,tailwind,docker,azure,git&theme=dark" />
 
----
+<sub>También: SQL / MariaDB · HTML · CSS · Unity (C#) · Odoo · DBeaver · Azure Data Studio</sub>
 
-## 🌱 Aprendiendo ahora
+</div>
 
-* 🏗️ Buenas prácticas de arquitectura de software y patrones de diseño en Java
-* 📊 Optimización de bases de datos relacionales y consultas SQL
-* 🤖 Integración de IA en flujos de desarrollo reales, más allá del prototipado
+<br/>
 
----
+### 🌱 Aprendiendo ahora
 
-## 🚀 Proyectos destacados
+- 🏗️ Buenas prácticas de arquitectura de software y patrones de diseño en Java
+- 📊 Optimización de bases de datos relacionales y consultas SQL
+- 🤖 Integración de IA en flujos de desarrollo reales, más allá del prototipado
 
-### 🔧 TaxiDay
+### 🚀 Proyectos destacados
 
-Plataforma para registrar jornadas, turnos, carreras e ingresos de taxistas, nacida de una necesidad real de mi familia.
-**Java 17 · Spring Boot · React · MariaDB · Docker**
-[Ver en el portafolio →](https://portfolio-josecarlos.vercel.app/projects/taxiday)
+| Proyecto | Qué resuelve | Stack | Enlace |
+|---|---|---|---|
+| **TaxiDay** | Gestión de jornadas, turnos y carreras de taxistas — nacido de una necesidad real de mi familia, no de un enunciado de clase. | Java 17 · Spring Boot · React · MariaDB · Docker | [Portafolio ↗](https://portfolio-josecarlos.vercel.app/projects/taxiday) · [GitHub ↗](https://github.com/josca16/TaxiDay) |
+| **CAFD** | Rediseño de la web oficial de la Confederación Andaluza de Federaciones Deportivas, durante mis prácticas en CodeArt Solutions. | Drupal · SQL · Scrum · Responsive | [cafd.es ↗](https://cafd.es) · [GitHub ↗](https://github.com/josca16/CAFD) |
+| **Videojuegos Unity** | Tres proyectos 2D/3D — de las físicas básicas a un shooter con IA de enemigos — para dominar el motor y C#. | Unity · C# | [Portafolio ↗](https://portfolio-josecarlos.vercel.app/projects/videojuegos-unity) |
 
-### 🏅 CAFD (CodeArts)
+<br/>
 
-Rediseño y desarrollo de la web de la Confederación Andaluza de Federaciones Deportivas, durante mis prácticas profesionales.
-**Drupal · SQL · Scrum · Responsive**
+<div align="center">
 
-### 🎮 Videojuegos en Unity
+### 📢 Contacto
 
-Tres videojuegos 2D/3D construidos para dominar Unity, C# y las mecánicas de físicas y jugabilidad.
+🌍 [Portafolio](https://portfolio-josecarlos.vercel.app/) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/jose-carlos-membrive/) &nbsp;·&nbsp; 📧 [josecarlosmartinez98@outlook.com](mailto:josecarlosmartinez98@outlook.com)
 
----
+<sub>Gracias por visitar mi perfil. ¡Explora mis proyectos y conéctate si te interesa lo que hago!</sub>
 
-## 📢 Contacto
+<img src="https://capsule-render.vercel.app/api?type=rect&color=17202A&height=4&section=footer" width="100%"/>
 
-* 🌍 [Portafolio](https://portfolio-josecarlos.vercel.app/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/jose-carlos-membrive)
-* 📧 [josecarlosmartinez98@outlook.com](mailto:josecarlosmartinez98@outlook.com)
-
----
-
-<p align="center">Gracias por visitar mi perfil. ¡Explora mis proyectos y conéctate si te interesa lo que hago! 😄</p>
+</div>
